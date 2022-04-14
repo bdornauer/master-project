@@ -34,7 +34,7 @@
     "webpack": "4.44.2"
   },
   "scripts": {
-    "start": "npm install && PORT=8080″ react-scripts start",
+    "start": "npm install && PORT=8080 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
