@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="295"
+       y="320"
+       width="721"
+       height="599"
+       id="rect9505" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:632.415px;line-height:20;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.29382"
+       x="73.247185"
+       y="201.12939"
+       id="text6215"
+       transform="matrix(0.72504886,0.72712979,-0.70624305,0.67094739,0,0)"><tspan
+         id="tspan6213"
+         x="73.247185"
+         y="201.12939"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:632.415px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:3.29382">+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text9503"
+       style="line-height:1.25;font-family:sans-serif;font-size:96px;white-space:pre;shape-inside:url(#rect9505)" />
+  </g>
+</svg>
